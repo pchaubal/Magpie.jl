@@ -10,6 +10,23 @@ For now, the code is mostly an exercise in creating a showcase project and is no
   - GPU accelerated
   - Hackable with functions which directly map to electromagnetic equations. See the docs to modify different parts of the code.
 
+# Installation
+This is a pure julia package but it is not registered yet. So to install it, clone this repo and do 
+```
+Pkg.instantiate .
+```
+
+Once installed, run tests with 
+```
+]
+test
+```
+```
+```
+```
+```
+
+
 # TODO
   - Adjoint method for gradients
   - Ray propagation from material boundaries
