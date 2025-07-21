@@ -31,7 +31,7 @@ Once installed, run tests with
 Pkg.test
 ```
 
-# TODO
+# Todo
   - Adjoint method for gradients
   - Ray propagation from material boundaries
   - 3D update
@@ -45,4 +45,3 @@ Development philosophy:
   4. Write the examples first even if they don't work.
   5. Support for tests 
 
-[![Build Status](https://github.com/pchaubal/Magpie.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/pchaubal/Magpie.jl/actions/workflows/CI.yml?query=branch%3Amain)
