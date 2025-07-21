@@ -28,14 +28,8 @@ Pkg.instantiate .
 
 Once installed, run tests with 
 ```
-]
-test
+Pkg.test
 ```
-```
-```
-```
-```
-
 
 # TODO
   - Adjoint method for gradients
