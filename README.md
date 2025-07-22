@@ -1,8 +1,11 @@
 <div align="center">
   
-<img src="docs/logo.png" alt="Magpie logo" width="300">
+<!-- <img src="docs/logo.png" alt="Magpie logo" width="300"> -->
+<p align="center">
+  <img src="docs/logo.png" alt="Logo" style="width:100px; height:100px; border-radius:50%;">
+</p>
 
-# Magpie
+# Magpie.jl
 [![Build Status](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![codecov](https://codecov.io/github/chalk-lab/Mooncake.jl/graph/badge.svg?token=NUPWTB4IAP)](https://codecov.io/github/chalk-lab/Mooncake.jl)
 [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/JuliaDiff/BlueStyle)
