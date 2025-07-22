@@ -2,7 +2,7 @@
   
 <!-- <img src="docs/logo.png" alt="Magpie logo" width="300"> -->
 <p align="center">
-  <img src="docs/logo.png" alt="Logo" style="width:100px; height:100px; border-radius:50%;">
+  <img src="docs/logo.png" alt="Magpie Logo" style="width:200px; height:200px; border-radius:50%;">
 </p>
 
 # Magpie.jl
