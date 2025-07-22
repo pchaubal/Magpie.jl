@@ -1,16 +1,15 @@
 <div align="center">
   
-<img src="" alt="Magpie logo" width="300">
+<img src="docs/logo.png" alt="Magpie logo" width="300">
 
 # Magpie
 [![Build Status](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![codecov](https://codecov.io/github/chalk-lab/Mooncake.jl/graph/badge.svg?token=NUPWTB4IAP)](https://codecov.io/github/chalk-lab/Mooncake.jl)
 [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/JuliaDiff/BlueStyle)
-<!-- [![Stable docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://chalk-lab.github.io/Mooncake.jl/stable) -->
 [![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
+<!-- [![Stable docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://pchaubal.github.io/Magpie.jl/stable) -->
 
 </div>
-<!-- [![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl) -->
 
 Magpie is a finite difference Quantum electromagnetic equations solver written in pure julia.
 For now, the code is mostly an exercise in creating a showcase project and is not intended to be a battle-tested solver. I have some particular goals beyond what usual solvers offer but to reach a point where these new features can be implemented, a basic solver needs to be ready which is a lofty goal in itself. So the plan is to focus on building a basic solver first and then target some additional goals.
