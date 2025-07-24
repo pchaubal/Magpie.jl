@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- <img src="docs/logo.png" alt="Magpie logo" width="300" > -->
-<img src="docs/logo.png" alt="Magpie Logo" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
+<img src="docs/src/assets/logo.png" alt="Magpie Logo" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
 
 # Magpie.jl
 [![Build Status](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/chalk-lab/Mooncake.jl/actions/workflows/CI.yml?query=branch%3Amain)
